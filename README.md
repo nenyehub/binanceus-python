@@ -1,5 +1,5 @@
 # binanceus-python
-A lightweight Python wrapper for the binance.us public API. 
+A lightweight Python wrapper for the Binance.us public API. 
 
 Uses [binance-connector-python](https://github.com/binance/binance-connector-python) for API connectivity.
 
