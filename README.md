@@ -43,5 +43,7 @@ Contributions, fixes, recommendations, and all other feedback is welcome. If you
 ## Known Issues
 There's a [known issue](https://dev.binance.vision/t/cant-run-any-websocket-example-on-binance-connector-python-on-windows/4957/2) with binance-connector websocket. Fix it here before using the package.
 
+Set your [PyCharm environment variable](https://www.jetbrains.com/help/objc/add-environment-variables-and-program-arguments.html) SSL_CERT_FILE.
+
 ### Contact 
 I can be reached on discord at Nenye#5335, or through email at nenye@ndili.net. Otherwise, feel free to open a PR or Issue here.
